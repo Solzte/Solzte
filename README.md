@@ -22,14 +22,6 @@
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Solzte&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" />
-  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=Solzte&theme=tokyonight&hide_border=true&background=00000000" />
-</p>
-
----
-
 ### 🧠 Projects
 - 🔹 [**MC Menu Dumper**](https://github.com/Solzte/McMenuDumper) — Fabric mod that logs every GUI/menu in Minecraft  
 - 🔹 **Minecraft Automation Tools** — Python-based Playwright bots for server utilities  
