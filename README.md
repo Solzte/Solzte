@@ -1,16 +1,59 @@
-## Hi there 👋
+<h1 align="center">👋 Hey there, I'm <span style="color:#00bfff;">Solzte</span></h1>
 
-<!--
-**Solzte/Solzte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <b>Mod Developer | Plugin Creator | Automation Enthusiast</b><br>
+  <i>Building things that make Minecraft and life a bit smarter ⚙️</i>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+- 🧠 I develop **Fabric Mods**, **Minecraft Plugins**, and custom **automation tools**  
+- 💻 Passionate about **reverse-engineering**, **networked systems**, and **game design**
+- ⚒️ Favorite stack: **Java**, **Python**, **Fabric API**, **Spigot/Paper**, **Playwright**
+- 🎮 Currently working on: [MC Menu Dumper](https://github.com/Solzte/McMenuDumper)
+
+---
+
+### 🛠️ Languages & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,gradle,mysql,redis,linux,bash,git" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Solzte&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" />
+  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=Solzte&theme=tokyonight&hide_border=true&background=00000000" />
+</p>
+
+---
+
+### 🧠 Projects
+- 🔹 [**MC Menu Dumper**](https://github.com/Solzte/McMenuDumper) — Fabric mod that logs every GUI/menu in Minecraft  
+- 🔹 **Minecraft Automation Tools** — Python-based Playwright bots for server utilities  
+- 🔹 **Custom Redis Integration** — Internal network syncing for LuckPerms & other systems
+
+---
+
+### ☕ Fun Facts
+- 💬 “If I can automate it, I will.”  
+- 🐧 I prefer **terminal** over GUI — but I still make things look good.  
+- 🧩 Minimalism is my design philosophy.  
+- ⚡ Motto: “Stay low-level, but think high-level.”
+
+---
+
+### 🔗 Connect
+<p align="center">
+  <a href="https://github.com/Solzte"><img src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Discord-Solzte%230001-%235865F2.svg?&style=for-the-badge&logo=discord&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/YouTube-Creative%20Dev%20Channel-red?style=for-the-badge&logo=youtube" /></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Solzte&color=00bfff&style=flat-square" alt="profile views" />
+</p>
