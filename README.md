@@ -11,7 +11,7 @@
 - 🧠 I develop **Fabric Mods**, **Minecraft Plugins**, and custom **automation tools**  
 - 💻 Passionate about **reverse-engineering**, **networked systems**, and **game design**
 - ⚒️ Favorite stack: **Java**, **Python**, **Fabric API**, **Spigot/Paper**, **Playwright**
-- 🎮 Currently working on: [MC Menu Dumper](https://github.com/Solzte/McMenuDumper)
+- 🎮 Currently working on: [CraftLime]([https://github.com/Solzte/McMenuDumper](https://craftlime.net/))
 
 ---
 
@@ -47,9 +47,7 @@
 
 ### 🔗 Connect
 <p align="center">
-  <a href="https://github.com/Solzte"><img src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Discord-Solzte%230001-%235865F2.svg?&style=for-the-badge&logo=discord&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/YouTube-Creative%20Dev%20Channel-red?style=for-the-badge&logo=youtube" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Discord-Solzte-%235865F2.svg?&style=for-the-badge&logo=discord&logoColor=white" /></a>
 </p>
 
 ---
