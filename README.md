@@ -41,18 +41,6 @@ I am a specialized **Systems Developer** focused on the technical infrastructure
 
 ---
 
-### 📬 Connect With Me
-<p align="left">
-  <a href="https://discord.com/users/YOUR_ID_HERE">
-    <img src="https://img.shields.io/badge/Discord-Solzte-%235865F2.svg?&style=for-the-badge&logo=discord&logoColor=white" />
-  </a>
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-blue?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
----
-
 <p align="center">
   <i>"Clean code, predictable performance, and scalable infrastructure."</i>
 </p>
